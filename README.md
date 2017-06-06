@@ -2,6 +2,8 @@
 
 [中文说明](https://mp.weixin.qq.com/s/v1sw_Sb8oKeZ8sWyjBUXGA)
 
+AVPlayer 音视频缓存方案
+
 Cache media file while play media using AVPlayerr.
 
 VIMediaCache use AVAssetResourceLoader to control AVPlayer download media data.
